@@ -11,7 +11,7 @@
 
 <a href="https://www.linkedin.com/in/vihin-s-1a3184285"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vihin01vihin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Vihin-Stalin&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=vihin01&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
 
 </div>
 
@@ -52,8 +52,8 @@ I use **SQL, Excel and Power BI**, speed up my work with **AI-assisted workflows
 
 | Project | What I found | Tools |
 |---|---|---|
-| 🛒 **[E-Commerce Customer Segmentation & RFM](https://github.com/Vihin-Stalin/ecommerce-rfm-segmentation)** | Segmented 4,338 customers into 5 groups; the top 29% "Champions" drove **38% of revenue** | SQL · Excel · Power BI |
-| 👥 **[HR Employee Attrition Analysis](https://github.com/Vihin-Stalin/hr-attrition-analysis)** | 16.1% overall attrition; overtime employees left at **3x the rate** (30.5% vs 10.4%) | Power BI · DAX · Pivot Tables |
+| 🛒 **[E-Commerce Customer Segmentation & RFM](https://github.com/vihin01/ecommerce-rfm-segmentation)** | Segmented 4,338 customers into 5 groups; the top 29% "Champions" drove **38% of revenue** | SQL · Excel · Power BI |
+| 👥 **[HR Employee Attrition Analysis](https://github.com/vihin01/hr-attrition-analysis)** | 16.1% overall attrition; overtime employees left at **3x the rate** (30.5% vs 10.4%) | Power BI · DAX · Pivot Tables |
 
 <!-- Add a dashboard screenshot per project, e.g.:
 <img src="images/rfm-dashboard.png" width="48%" /> <img src="images/hr-dashboard.png" width="48%" />
@@ -65,10 +65,10 @@ I use **SQL, Excel and Power BI**, speed up my work with **AI-assisted workflows
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vihin-Stalin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihin-Stalin&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vihin01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihin01&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=Vihin-Stalin&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=vihin01&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -78,7 +78,7 @@ I use **SQL, Excel and Power BI**, speed up my work with **AI-assisted workflows
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vihin-Stalin/Vihin-Stalin/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/vihin01/vihin01/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
