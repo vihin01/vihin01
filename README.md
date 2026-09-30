@@ -65,9 +65,6 @@ I use **SQL, Excel and Power BI**, speed up my work with **AI-assisted workflows
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vihin01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihin01&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img src="https://streak-stats.demolab.com?user=vihin01&theme=tokyonight&hide_border=true" />
 
 </div>
