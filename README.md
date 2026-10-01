@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vihin%20S&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Bengaluru%2C%20India&descSize=20&descAlignY=60" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Turning+500K%2B+raw+transactions+into+decisions;SQL+%7C+Excel+%7C+Power+BI;Found+a+segment+driving+38%25+of+revenue;Spotted+a+3x+attrition+risk+driver;Open+to+Data+%26+Product+Analyst+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Turning+500K%2B+raw+transactions+into+decisions;SQL+%7C+Excel+%7C+Power+BI;Found+a+segment+driving+65%25+of+revenue;Spotted+a+3x+attrition+risk+driver;Open+to+Data+%26+Product+Analyst+roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -52,7 +52,7 @@ I use **SQL, Excel and Power BI**, speed up my work with **AI-assisted workflows
 
 | Project | What I found | Tools |
 |---|---|---|
-| 🛒 **[E-Commerce Customer Segmentation & RFM](https://github.com/vihin01/ecommerce-rfm-segmentation)** | Segmented 4,338 customers into 5 groups; the top 29% "Champions" drove **38% of revenue** | SQL · Excel · Power BI |
+| 🛒 **[E-Commerce Customer Segmentation & RFM](https://github.com/vihin01/ecommerce-rfm-segmentation)** | Segmented 4,338 customers into 5 groups; the 22% in "Champions" drove **65% of revenue** | SQL · Excel · Power BI |
 | 👥 **[HR Employee Attrition Analysis](https://github.com/vihin01/hr-attrition-analysis)** | 16.1% overall attrition; overtime employees left at **3x the rate** (30.5% vs 10.4%) | Power BI · DAX · Pivot Tables |
 
 <!-- Add a dashboard screenshot per project, e.g.:
@@ -64,6 +64,9 @@ I use **SQL, Excel and Power BI**, speed up my work with **AI-assisted workflows
 ## 📈 GitHub Stats
 
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vihin01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihin01&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=vihin01&theme=tokyonight&hide_border=true" />
 
