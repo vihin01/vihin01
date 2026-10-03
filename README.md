@@ -1,4 +1,4 @@
-
+[README_vihin01.md](https://github.com/user-attachments/files/32990145/README_vihin01.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vihin%20S&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Bengaluru%2C%20India&descSize=20&descAlignY=60" alt="header" />
@@ -74,11 +74,15 @@ I use **SQL, Excel and Power BI**, speed up my work with **AI-assisted workflows
 
 ---
 
-## 🐍 Contribution Snake
+## 👾 Pac-Man Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vihin01/vihin01/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vihin01/vihin01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vihin01/vihin01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vihin01/vihin01/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
